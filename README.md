@@ -29,5 +29,22 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 
 ---
 
-### ⏳ Day 2: [Task Name] (Upcoming)
+### ✅ Day 2: Python Practice Problems (Date: [Today's Date])
+**File:** `Logic_Building_Task_2.ipynb`
+
+**Description:** Solved 10 Python practice problems covering Data Structures (Lists, Sets, Dictionaries, Tuples) and basic algorithms.
+* **Problem 1:** Identified unique words in a sentence using Sets.
+* **Problem 2:** Found the employee with the highest salary from a Dictionary.
+* **Problem 3:** Determined Min/Max values in a list.
+* **Problem 4:** Filtered product prices above a specific threshold.
+* **Problem 5:** Calculated attendance percentage based on "P" and "A" flags.
+* **Problem 6:** Removed duplicate phone numbers using Sets.
+* **Problem 7:** Implemented a character frequency counter.
+* **Problem 8:** Converted data from List to Tuple format.
+* **Problem 9:** Implemented a key existence check for dictionaries.
+* **Problem 10:** Calculated the mathematical average of student marks.
+
+---
+
+### ⏳ Day 3: [Task Name] (Upcoming)
 *Details will be updated here...*

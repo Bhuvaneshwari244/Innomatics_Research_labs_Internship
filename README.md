@@ -44,6 +44,14 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 * **Problem 9:** Implemented a key existence check for dictionaries.
 * **Problem 10:** Calculated the mathematical average of student marks.
 
+  **Topic:** Lists vs Tuples in Python: When Should You Use Which?
+**Description:** Published a technical article explaining the key differences between mutable and immutable data structures in Python.
+
+🔗 **Read the Blog:** [Medium Article Link](https://medium.com/@bhuvaneshwaritsms010/lists-vs-tuples-in-python-when-should-you-use-which-a-beginners-guide-15f313718840)
+🔗 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/bhuvaneshwari-rebba-650800280_lists-vs-tuples-in-python-when-should-you-activity-7429126406560808960-DdnP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER2Y5wBFQn-3KxbyzrMce3aWEi7zP3K_os)
+
+---
+
 ---
 
 ### ⏳ Day 3: [Task Name] (Upcoming)

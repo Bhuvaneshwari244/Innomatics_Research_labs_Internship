@@ -29,7 +29,7 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 
 ---
 
-### ✅ Day 2: Python Practice Problems (Date: [Today's Date])
+### ✅ Day 2: Python Practice Problems (Date: 16-02-2026)
 **File:** `Logic_Building_Task_2.ipynb`
 
 **Description:** Solved 10 Python practice problems covering Data Structures (Lists, Sets, Dictionaries, Tuples) and basic algorithms.
@@ -52,7 +52,14 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 
 ---
 
----
 
-### ⏳ Day 3: [Task Name] (Upcoming)
-*Details will be updated here...*
+### ✅ Task 3: Data Processing & Analysis (Date: 18-02-2026)
+**File:** `Data_Processing_Analysis_Task_3.ipynb`
+
+**Description:** Solved 6 real-world data processing problems involving dictionaries, lists, and string manipulation.
+* **Problem 1:** Employee Performance Analysis (Handling ties in max values).
+* **Problem 2:** Search Query Analysis (Frequency counting & filtering).
+* **Problem 3:** Sensor Data Validation (Filtering lists with `enumerate`).
+* **Problem 4:** Email Domain Analysis (String splitting & percentage calculation).
+* **Problem 5:** Sales Spike Detection (Statistical thresholding).
+* **Problem 6:** Duplicate User ID Detection.

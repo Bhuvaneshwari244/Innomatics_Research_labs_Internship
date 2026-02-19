@@ -63,3 +63,17 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 * **Problem 4:** Email Domain Analysis (String splitting & percentage calculation).
 * **Problem 5:** Sales Spike Detection (Statistical thresholding).
 * **Problem 6:** Duplicate User ID Detection.
+
+
+--- 
+
+### ✅ Task 4: Functions with Loops (Date: 19-02-2026)
+**File:** `Function_with_Loops_Task_4.ipynb`
+
+**Description:** Implemented real-world logic systems using Python functions, `while` loops for retry mechanisms, and `for` loops for iteration.
+* **Problem 1:** Mobile Recharge Validation System (Input validation).
+* **Problem 2:** Inventory Reorder Alert System (Dictionary traversal).
+* **Problem 3:** Student Result Processing System (Average calculation).
+* **Problem 4:** Cab Fare Estimator (Dynamic fare calculation with peak hour logic).
+* **Problem 5:** Employee Attendance Eligibility Checker.
+* **Problem 6:** Password Strength Checker (String character validation).

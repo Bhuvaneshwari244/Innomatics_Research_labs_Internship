@@ -77,3 +77,20 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 * **Problem 4:** Cab Fare Estimator (Dynamic fare calculation with peak hour logic).
 * **Problem 5:** Employee Attendance Eligibility Checker.
 * **Problem 6:** Password Strength Checker (String character validation).
+
+---
+
+### ✅ Task 5: Function-Based Problem Solving (Date: 22-02-2026)
+**File:** `Task5/Function-Based Problem Solving.ipynb`
+
+**Description:** Solved 10 real-world, industry-specific problems simulating systems in Healthcare, Agriculture, Banking, IT, and Social Media using functions, conditional logic, and math operations.
+* **Problem 1:** Social Media - Post Engagement Analyzer (Calculated total likes and flagged viral posts).
+* **Problem 2:** Healthcare - Medicine Stock Alert System (Monitored inventory for low-stock alerts).
+* **Problem 3:** Agriculture - Rainfall Adequacy Checker (Evaluated average seasonal rainfall for irrigation).
+* **Problem 4:** Social Media - Duplicate Account Detection (Utilized sets to identify non-unique usernames).
+* **Problem 5:** Healthcare - Appointment Eligibility Checker (Validated patient age for scheduling).
+* **Problem 6:** Agriculture - Premium Crop Price Filter (Filtered list elements above a premium threshold).
+* **Problem 7:** System Monitoring - Application Health Checker (Evaluated system status based on error counts).
+* **Problem 8:** Banking - Daily Transaction Limit Checker (Validated transactions against a daily limit).
+* **Problem 9:** E-Learning - Student Attendance Eligibility System (Calculated attendance percentages for exam qualification).
+* **Problem 10:** Smart Electricity Bill Analyzer (Implemented tiered billing logic and classified usage levels).

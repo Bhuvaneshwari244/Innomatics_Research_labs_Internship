@@ -94,3 +94,16 @@ Welcome to my internship repository! This space contains all the daily tasks, as
 * **Problem 8:** Banking - Daily Transaction Limit Checker (Validated transactions against a daily limit).
 * **Problem 9:** E-Learning - Student Attendance Eligibility System (Calculated attendance percentages for exam qualification).
 * **Problem 10:** Smart Electricity Bill Analyzer (Implemented tiered billing logic and classified usage levels).
+
+---
+
+### ✅ Task 6: Function-Based Problem Solving (Date: 23-02-2026)
+**File:** `Task6/Function-Based Problem Solving.ipynb`
+
+**Description:** Designed and implemented 6 Python functions addressing real-world operational and logistical scenarios.
+* **Problem 1:** Smart Parking Lot Management System (Tracked vehicle entries/exits via lists and conditional alerts for capacity limits).
+* **Problem 2:** Online Food Delivery Time Estimator (Calculated dynamic ETAs based on distance, traffic, and weather conditions).
+* **Problem 3:** Movie Theatre Seat Occupancy Analyzer (Computed occupancy percentages and determined Housefull/Available status).
+* **Problem 4:** Cloud Server Load Classification System (Averaged CPU readings to classify server health statuses like Critical or Warning).
+* **Problem 5:** Smart Classroom Resource Usage Monitor (Iterated through a dictionary to flag overused resources and trigger energy alerts).
+* **Problem 6:** Online Event Registration Capacity Controller (Managed event capacities, validated incoming registrations, and tracked waitlisted users).
